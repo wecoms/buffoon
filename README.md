@@ -9,14 +9,14 @@ Buffoon
 * Lastest Version : buffoon_v0.0.1.jar
 
 
-## Downloads ##
-
-* https://bitbucket.org/wecoms/buffoon/downloads
-
-
 ## Current Support Widgets ##
 
 * Editable ListView
+
+
+## Downloads ##
+
+* https://bitbucket.org/wecoms/buffoon/downloads
 
 
 ## Redirect ##
