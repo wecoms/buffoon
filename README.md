@@ -19,5 +19,7 @@ Buffoon
 * Editable ListView
 
 
-Go to https://bitbucket.org/wecoms/buffoon
+## Redirect ##
+
+* Go to https://bitbucket.org/wecoms/buffoon
 
