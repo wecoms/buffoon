@@ -11,7 +11,7 @@ Buffoon
 
 ## Current Support Widgets ##
 
-* EditableListView
+* EditableListView https://wecoms.atlassian.net/wiki/display/BFNP/EditableListView
 
 
 ## Downloads ##
