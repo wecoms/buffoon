@@ -1,4 +1,4 @@
-buffoon
+Buffoon
 =======
 
 Current Widgets
