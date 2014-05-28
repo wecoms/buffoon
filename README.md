@@ -11,7 +11,7 @@ Buffoon
 
 ## Current Support Widgets ##
 
-* Editable ListView
+* EditableListView
 
 
 ## Downloads ##
