@@ -1,4 +1,7 @@
-buffoon
+Buffoon
 =======
 
-Android Useful Widgets
+## Android Useful Widgets ##
+
+Go to https://bitbucket.org/wecoms/buffoon
+
