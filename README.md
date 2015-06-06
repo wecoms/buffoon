@@ -11,15 +11,5 @@ Buffoon
 
 ## Current Support Widgets ##
 
-* EditableListView https://wecoms.atlassian.net/wiki/display/BFNP/EditableListView
-
-
-## Downloads ##
-
-* https://bitbucket.org/wecoms/buffoon/downloads
-
-
-## Redirect ##
-
-* Go to https://bitbucket.org/wecoms/buffoon
+* EditableListView http://wiki.wecoms.com/display/BFNP/EditableListView 
 
